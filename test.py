@@ -1,4 +1,4 @@
 import utils.getdata
 import utils.predict
-utils.getdata.load_data() #["flyswoop"])
-utils.predict.get_prediction(n=50)
+#utils.getdata.load_data() #["flyswoop"])
+utils.predict.get_prediction()
